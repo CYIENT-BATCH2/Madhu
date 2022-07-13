@@ -1,5 +1,3 @@
-
-
 /*balls are numbered with random 1-digit number each. Assign these numbers using user input. 
 steps:
 1.read n.
