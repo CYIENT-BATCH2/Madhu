@@ -1,5 +1,10 @@
 /*
 Kishore bought ‘n’ number of lottery tickets. His lucky number is 3 so he wants to separate all the tickets that have the number 3 in them. Find how many such lucky tickets are found in the ‘n’ number of tickets purchased by Kishore.
+steps:
+1.read n1 and n2
+2.check given range
+3.check whether digit contain 3 or nor if exist print that no...
+4.other wise increment value
 
 */
 
