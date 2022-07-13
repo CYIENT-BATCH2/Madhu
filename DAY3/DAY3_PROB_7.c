@@ -1,4 +1,8 @@
-//calculate the age of a person based on year, month as i/p
+/*calculate the age of a person based on year, month as i/p
+steps:
+1.read y , m
+2.substract from 2022 and 7
+*/
 
 #include<stdio.h>
 int main()
