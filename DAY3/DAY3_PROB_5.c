@@ -1,4 +1,9 @@
-//Right shift the value 0xFE by 3 bits
+/*Right shift the value 0xFE by 3 bits
+
+1.read n
+2.use %x for hex
+3. print after 3 shifts
+*/
 
 #include<stdio.h>
 
