@@ -1,4 +1,10 @@
-//10-digit number is palindrome or not
+/*10-digit number is palindrome or not
+
+steps:
+1.read no..
+2.reversing data
+3.comparing reverse data and given data
+*/
 
 #include <stdio.h>
 
