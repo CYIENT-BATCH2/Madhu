@@ -2,7 +2,7 @@
 ALGORITHM:
 arthematic operation 
 steps 
-1.apply the expression as question given .
+1.apply the expression as question given.
 */
 
 #include <stdio.h>
