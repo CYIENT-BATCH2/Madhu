@@ -1,5 +1,9 @@
-//accept hex value as i/p and right shift bit value also as i/p
-
+/*accept hex value as i/p and right shift bit value also as i/p
+steps:
+1.read n
+2.use %x for hex
+3. print after n shifts
+*/
 #include<stdio.h>
 
 int main()
