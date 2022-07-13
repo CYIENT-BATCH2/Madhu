@@ -1,4 +1,9 @@
-//Convert decimal number 204 to hex value, binary value
+/*Convert decimal number 204 to hex value, binary value
+steps:
+1.read n
+2.use %x for hex
+3.bit by bit check and print
+*/
 
 #include<stdio.h>
 
