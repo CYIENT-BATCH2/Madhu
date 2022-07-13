@@ -1,4 +1,9 @@
-//convert Celsius form of temperature into Fahrenheit and vice versa
+/*convert Celsius form of temperature into Fahrenheit and vice versa
+
+steps:
+1.read n
+2.convert celsius to farenheit by farmulae n=(n*1.8)+32;
+*/
 
 #include<stdio.h>
 int main()
