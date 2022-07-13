@@ -1,5 +1,8 @@
-//Implement basic logic gates using C (AND, OR, NOT)
-
+/*Implement basic logic gates using C (AND, OR, NOT)
+steps:
+1.read a and b
+2.perform (OR) operater (AND) operater XOR
+*/
 #include<stdio.h>
 int main()
 {
