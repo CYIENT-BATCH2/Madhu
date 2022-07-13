@@ -1,4 +1,8 @@
-//check given i/p by user is alphabet or not alphabet
+/*check given i/p by user is alphabet or not alphabet
+steps:
+1.read c
+2.check alpha or not
+*/
 
 #include<stdio.h>
 int main()
