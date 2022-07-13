@@ -1,5 +1,9 @@
-//The entire area of a circular garden
-
+/*The entire area of a circular garden
+steps:
+1.read radious
+2.apply formula pi * r* r
+3.print after calculation.
+*/
 #include <stdio.h>
 
 int main()
