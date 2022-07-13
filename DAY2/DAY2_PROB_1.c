@@ -1,4 +1,8 @@
-//the sum of its digits
+/*the sum of its digits
+steps:
+1.READ n VALUES
+2.extract each digit and sum all those digits and print.
+*/
 
 #include <stdio.h>
 
