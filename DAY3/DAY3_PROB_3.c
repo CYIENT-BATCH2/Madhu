@@ -1,4 +1,9 @@
-//reverse a 3-digit number
+/*reverse a 3-digit number
+steps:
+1.read n
+2.checking each 3digit no..
+3.reverse the data
+*/
 
 #include <stdio.h>
 
