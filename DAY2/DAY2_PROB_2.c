@@ -1,4 +1,8 @@
-//2-digit ID to binary form
+/*2-digit ID to binary form
+steps:
+1. read integer data
+2.checking each bit whether it is one or zero.
+*/
 
 #include <stdio.h>
 
