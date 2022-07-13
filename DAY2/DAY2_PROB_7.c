@@ -1,4 +1,8 @@
-//leap years in the interval 1990-2022.
+/*leap years in the interval 1990-2022.
+steps:
+1. checking all year with %4 %100 %400
+2.and counting and printing .
+*/
 
 #include<stdio.h>
 int main()
