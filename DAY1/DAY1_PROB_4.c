@@ -1,4 +1,12 @@
-//reverse the 6 digit number
+/*reverse the 6 digit number
+
+steps:
+1.read n
+2.check whether it is 6 digit or not
+3.extrating each digit from no... and check if it contain 0 in those digits
+4.if not reverse that no .. by reverse logic
+5.print if non zero digit involved in given no...
+*/
 
 #include <stdio.h>
 
