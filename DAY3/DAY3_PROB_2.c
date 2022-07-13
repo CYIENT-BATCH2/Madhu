@@ -1,4 +1,9 @@
-//sum of the first and the second last digit of a 5-digit 
+/*sum of the first and the second last digit of a 5-digit 
+steps:
+1.read n
+2.checking each last 2nd digit no..and first digit
+3.sum both
+*/
 
 #include<stdio.h>
 int main()
