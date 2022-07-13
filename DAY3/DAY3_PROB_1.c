@@ -1,6 +1,5 @@
-
-
 /*
+steps:
 1.read all inputs of 8 int and 7 float values.
 2.calculate sum of int and float variables
 3.avg =sum/ no.of elements.
